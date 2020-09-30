@@ -27,7 +27,7 @@ static const Command m_command[] PROGMEM = {
 	{A, 30},			// (Optional) You can't catch this Pokemon, Is that OK?
 	{NOTHING, 1},
 	{A, 2660},			// (2660 ~= until 2 min)
-	{NOTHING, 2510},	// 2660 + 2510 = 5170 ~= until 1 min
+	{NOTHING, 2510},	// 2660 + 2510 = 5170 ~= until 1 min Add extra option to wait additional 2660 or maybe a little more
 
 	{UP, 1},
 	{NOTHING, 1},
